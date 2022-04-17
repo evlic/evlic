@@ -1,0 +1,17 @@
+# This is a basic workflow to help you get started with Actions
+name: WakaTime Readme
+
+on:
+  push:
+    branches:
+      - master
+  schedule:
+    - cron: '0 19 * * *'
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: c6bbf487-d8b4-4cf7-b7cb-5ccaab45687b
