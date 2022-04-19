@@ -1,4 +1,4 @@
-### Hi evlic there 👋
+## Hi evlic there 👋
 
 <!--
 **evlic/evlic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,11 +16,13 @@ Here are some ideas to get you started:
 -->
 
 
-#### MyStars
-![](https://github-readme-stats.vercel.app/api?username=evlic&theme=dark)
+<img align=right src="https://github-readme-stats.vercel.app/api?username=evlic&theme=dark">
 
 #### MyCodingDashboard
-<script src="https://gist.github.com/evlic/fe57287886f9a9373a3fab95a2e570c3.js"></script>
+[![wakatime](https://wakatime.com/badge/user/d9f55687-1fce-4083-8cda-b582dac59cb6.svg)](https://wakatime.com/@d9f55687-1fce-4083-8cda-b582dac59cb6)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 
 #### MyGame
 ![](https://img.shields.io/badge/-Nintendo%20Switch-e60012?style=flat-square&logo=nintendo%20switch&logoColor=ffffff)
