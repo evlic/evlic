@@ -15,7 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### 
 
 #### MyStars
 ![](https://github-readme-stats.vercel.app/api?username=evlic&theme=dark)
+
+#### MyCodingDashboard
+<script src="https://gist.github.com/evlic/fe57287886f9a9373a3fab95a2e570c3.js"></script>
+
+#### MyGame
+![](https://img.shields.io/badge/-Nintendo%20Switch-e60012?style=flat-square&logo=nintendo%20switch&logoColor=ffffff)
