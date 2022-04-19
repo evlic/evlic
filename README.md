@@ -1,33 +1,24 @@
-## Hi evlic there 👋
+<h4> Hah, evlic there! <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px"></h4>
 
-<!--
-**evlic/evlic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm evlic, a college students interested in computer science. My ambition is to become an excellent back-end engineer, nice to meet you at Github.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+<p align='center'>
+    <img height="240" src="https://github-readme-stats.vercel.app/api?username=evlic&theme=dark">
+    <img height="240" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evlic&count_private=true&theme=dark">
+</p>
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=evlic&theme=dark">
+-----
 
-#### CodingDashboard
-[![wakatime](https://wakatime.com/badge/user/d9f55687-1fce-4083-8cda-b582dac59cb6.svg)](https://wakatime.com/@d9f55687-1fce-4083-8cda-b582dac59cb6)
+#### MyCodingDashboard
+
 <!--START_SECTION:waka-->
-
 ```text
 Go   49 mins         █████████████████████████   100.00 %
 ```
-
 <!--END_SECTION:waka-->
 
-
 #### What i play
-![](https://img.shields.io/badge/-Nintendo%20Switch-e60012?style=flat-square&logo=nintendo%20switch&logoColor=ffffff)
+[![wakatime](https://wakatime.com/badge/user/d9f55687-1fce-4083-8cda-b582dac59cb6.svg)](https://wakatime.com/@d9f55687-1fce-4083-8cda-b582dac59cb6)![](https://img.shields.io/badge/-Nintendo%20Switch-e60012?style=flat-square&logo=nintendo%20switch&logoColor=ffffff)
+
