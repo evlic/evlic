@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 
-<img align=right src="https://github-readme-stats.vercel.app/api?username=evlic&theme=dark">
+<img src="https://github-readme-stats.vercel.app/api?username=evlic&theme=dark">
 
-#### MyCodingDashboard
+#### CodingDashboard
 [![wakatime](https://wakatime.com/badge/user/d9f55687-1fce-4083-8cda-b582dac59cb6.svg)](https://wakatime.com/@d9f55687-1fce-4083-8cda-b582dac59cb6)
 <!--START_SECTION:waka-->
 
@@ -29,5 +29,5 @@ Go   49 mins         ███████████████████�
 <!--END_SECTION:waka-->
 
 
-#### MyGame
+#### What i play
 ![](https://img.shields.io/badge/-Nintendo%20Switch-e60012?style=flat-square&logo=nintendo%20switch&logoColor=ffffff)
