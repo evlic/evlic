@@ -12,9 +12,10 @@ Go   49 mins         ███████████████████�
 ```
 <!--END_SECTION:waka-->
 <div align='center' display='flex'>
-        <img src="https://stats.justsong.cn/api/leetcode?username=evlic&cn_username=evlic&theme=dark">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evlic&count_private=true&theme=dark">
-        <img src="https://github-readme-stats.vercel.app/api?username=evlic&theme=dark">
+        <img width='600px' src="https://stats.justsong.cn/api/leetcode?username=evlic&cn=true&theme=dark">
+        <p></p>
+        <img height='200px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=evlic&count_private=true&theme=dark">
+        <img height='200px' src="https://github-readme-stats.vercel.app/api?username=evlic&theme=dark">
 </div>
 
 
