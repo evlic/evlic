@@ -1,4 +1,4 @@
-# Hah, evlic there! <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px">
+# Hah, evlic there! <img src="https://evlic.github.io/dist/github-profile/wave.gif" width="30px">
 
 I'm evlic, a college students interested in computer science. My ambition is to become an excellent back-end engineer, nice to meet you at Github.
 
