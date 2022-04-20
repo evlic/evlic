@@ -17,8 +17,8 @@ Go   49 mins         ███████████████████�
         <img height='180px' src="http://github-readme-streak-stats.herokuapp.com?user=evlic&theme=bear&hide_border=true&date_format=%5BY.%5Dn.j">
         <img height='180px' src="https://stats.justsong.cn/api/leetcode?username=evlic&cn=true&theme=dark">
         <p></p>
-        <img height='180px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=evlic&theme=dark&layout=compact">
-        <img height='180px' src="https://github-readme-stats.vercel.app/api?username=evlic&show_icons=true&theme=dark">
+        <img height='160px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=evlic&theme=dark&layout=compact">
+        <img height='160px' src="https://github-readme-stats.vercel.app/api?username=evlic&show_icons=true&theme=dark">
 </div>
 
 
