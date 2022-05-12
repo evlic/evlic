@@ -9,11 +9,9 @@ I'm evlic, a college students interested in computer science. My ambition is to 
 <!--START_SECTION:waka-->
 
 ```text
-Go               15 hrs 12 mins  ███████████▒░░░░░░░░░░░░░   45.64 %
-Dart             14 hrs 39 mins  ███████████░░░░░░░░░░░░░░   43.98 %
-XML              43 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
-Markdown         40 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
-Other            37 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
+Go                         17 hrs 50 mins  ███████████████▓░░░░░░░░░   63.12 %
+Dart                       6 hrs 34 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.25 %
+Other                      1 hr 18 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 %
 ```
 
 <!--END_SECTION:waka-->
