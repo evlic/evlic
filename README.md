@@ -24,6 +24,6 @@ Other                      1 hr 18 mins    █░░░░░░░░░░░�
 </div>
 
 
-## 😋Free Time
+## 😋Free Time To-Do
 [![free time coding](https://wakatime.com/badge/user/d9f55687-1fce-4083-8cda-b582dac59cb6.svg)](https://wakatime.com/@d9f55687-1fce-4083-8cda-b582dac59cb6) ![Nintendo](https://img.shields.io/badge/-Nintendo%20Switch-e60012?style=flat-square&logo=nintendo%20switch&logoColor=ffffff)
 
