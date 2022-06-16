@@ -9,12 +9,12 @@ I'm evlic, a college students interested in computer science. My ambition is to 
 <!--START_SECTION:waka-->
 
 ```text
-Go               8 hrs 2 mins    ██████████████████████▒░░   89.28 %
-Markdown         44 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 %
-GitIgnore file   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
-YAML             5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
-go.mod           2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
-XML              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Go               7 hrs 22 mins   ██████████████████████░░░   88.39 %
+Markdown         44 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.95 %
+YAML             5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
+GitIgnore file   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
+go.mod           2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
+Text             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
