@@ -9,7 +9,7 @@ I'm evlic, a college students interested in computer science. My ambition is to 
 <!--START_SECTION:waka-->
 
 ```text
-Other    1 hr 3 mins     ████████████▓░░░░░░░░░░░░   51.03 %
+Other    1 hr 3 mins     ████████████░░░░░░░░░░░░░   48.24 %
 ```
 
 <!--END_SECTION:waka-->
