@@ -9,12 +9,11 @@ I'm evlic, a college students interested in computer science. My ambition is to 
 <!--START_SECTION:waka-->
 
 ```text
-Go                     4 hrs 29 mins   ███████████████▒░░░░░░░░░   61.69 %
-Bash                   43 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.07 %
-JavaScript             24 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.71 %
-Makefile               22 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.15 %
-YAML                   21 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.03 %
-JSON                   16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 %
+Go                     4 hrs 24 mins   ███████████████▒░░░░░░░░░   61.84 %
+Bash                   41 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.66 %
+JavaScript             24 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.83 %
+Makefile               22 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.26 %
+Other                  17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 %
 ```
 
 <!--END_SECTION:waka-->
