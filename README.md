@@ -39,6 +39,7 @@ Other                1 hr 39 mins    █▒░░░░░░░░░░░░�
 **Tools and Environments**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" alt="VSCode" title="VSCode"></code>
+<code><img height="20" src="dist/notion.svg" alt="Notion" title="Notion"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/markdown/markdown.png" alt="Markdown" title="MarkDown"></code>
 <code><img height="20" src="dist/macos-logo.png" alt="MacOS" title="MacOS"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png" alt="Linux" title="Linux"></code>
