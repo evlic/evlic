@@ -28,7 +28,7 @@ Other                1 hr 39 mins    █▒░░░░░░░░░░░░�
 
 **Languages and Frameworks**
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/go/go.png" alt="Go" title="Go"></code>
+<code><img height="20" src="https://go.dev/images/go-logo-white.svg" alt="Go" title="Go"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python" title="Python"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" alt="Java" title="Java"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" alt="Git" title="Git"></code>
@@ -39,7 +39,7 @@ Other                1 hr 39 mins    █▒░░░░░░░░░░░░�
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" alt="VSCode" title="VSCode"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/markdown/markdown.png" alt="Markdown" title="MarkDown"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/macos/macos.png" alt="MacOS" title="MacOS"></code>
+<code><img height="20" src="dist/macos-logo.png" alt="MacOS" title="MacOS"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png" alt="Linux" title="Linux"></code>
 
 
