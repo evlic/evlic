@@ -9,7 +9,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Properties   0 secs          █████████████████████████   100.00 %
+Go               13 mins         █████████▓░░░░░░░░░░░░░░░   38.34 %
+Markdown         8 mins          ██████░░░░░░░░░░░░░░░░░░░   24.44 %
+ActionScript 3   5 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.19 %
+Shell Script     4 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.38 %
+Text             3 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.71 %
 ```
 
 <!--END_SECTION:waka-->
