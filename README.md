@@ -9,11 +9,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Go                8 hrs 7 mins    ███████████████████░░░░░░   76.06 %
-SQL               2 hrs 10 mins   █████░░░░░░░░░░░░░░░░░░░░   20.43 %
-Shell Script      6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
-GitIgnore file    5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
-GitExclude file   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
+Go                5 hrs 54 mins   ██████████████░░░░░░░░░░░   56.30 %
+SQL               4 hrs 20 mins   ██████████▒░░░░░░░░░░░░░░   41.33 %
+GitIgnore file    5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
+GitExclude file   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
+textmate          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
 ```
 
 <!--END_SECTION:waka-->
