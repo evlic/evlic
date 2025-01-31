@@ -9,8 +9,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Go     1 hr 12 mins    ████████████████████████▒   97.67 %
-JSON   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
