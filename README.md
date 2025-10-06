@@ -9,11 +9,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Go                2 hrs 9 mins    ███████████████████▓░░░░░   79.20 %
-Protocol Buffer   11 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.09 %
-SQL               10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.13 %
-protobuf          9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.82 %
-Bash              2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
