@@ -9,11 +9,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Go             2 hrs 6 mins    █████████████████▒░░░░░░░   69.49 %
-SQL            47 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.98 %
-Bash           4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
-Shell Script   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
-JSON           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
