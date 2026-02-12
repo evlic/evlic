@@ -9,7 +9,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Go               19 hrs 21 mins  ███████████████████████░░   92.62 %
+SQL              47 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 %
+Markdown         12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
+textmate         11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
+JSON             7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
 ```
 
 <!--END_SECTION:waka-->
