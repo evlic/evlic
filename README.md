@@ -9,7 +9,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+YAML             10 mins               ███████████▓░░░░░░░░░░░░░   46.20 %
+Text             3 mins                ████▒░░░░░░░░░░░░░░░░░░░░   16.81 %
+JSON             1 min                 ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 %
+Go               1 min                 ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 %
+GitIgnore file   1 min                 █▓░░░░░░░░░░░░░░░░░░░░░░░   07.03 %
 ```
 
 <!--END_SECTION:waka-->
