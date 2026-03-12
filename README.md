@@ -8,11 +8,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Go               3 hrs 38 mins         ████████████████████████▒   97.77 %
-Bash             4 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 %
-JSON             0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
-textmate         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
-SQL              0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
