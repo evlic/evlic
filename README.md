@@ -8,7 +8,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Go               4 hrs 13 mins         ██████████████████████░░░   87.85 %
+SQL              20 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.24 %
+GitIgnore file   7 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.77 %
+textmate         5 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
+CSV              0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
