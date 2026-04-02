@@ -8,11 +8,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python     38 mins               ████████████░░░░░░░░░░░░░   48.27 %
-textmate   22 mins               ███████░░░░░░░░░░░░░░░░░░   28.30 %
-Go         13 mins               ████▒░░░░░░░░░░░░░░░░░░░░   17.17 %
-SQL        4 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.23 %
-Text       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
