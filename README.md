@@ -8,7 +8,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Go         43 mins               ████████████▓░░░░░░░░░░░░   51.29 %
+YAML       29 mins               ████████▓░░░░░░░░░░░░░░░░   34.12 %
+Python     7 mins                ██▒░░░░░░░░░░░░░░░░░░░░░░   08.83 %
+textmate   4 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.12 %
+Bash       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
 ```
 
 <!--END_SECTION:waka-->
