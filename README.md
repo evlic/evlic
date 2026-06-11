@@ -8,7 +8,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Go           2 hrs 15 mins         █████████████▒░░░░░░░░░░░   53.16 %
+Markdown     48 mins               ████▓░░░░░░░░░░░░░░░░░░░░   18.93 %
+HTML         42 mins               ████▒░░░░░░░░░░░░░░░░░░░░   16.88 %
+JavaScript   18 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.08 %
+Other        6 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 %
 ```
 
 <!--END_SECTION:waka-->
